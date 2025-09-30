@@ -10,7 +10,7 @@ This repository showcases my work and learning journey from the **Google IT Auto
 The program was developed by Google to provide practical, hands-on skills in Python scripting, Git/GitHub, debugging, configuration management, and IT automation.  
 
 - 📑 **Certificate Verification (Coursera):** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/U9ACDK23GCLM)  
-- 📜 **Certificate (PDF):** [Download Certificate](./certificate/Coursera_U9ACDK23GCLM.pdf)  
+- 📜 **Certificate (PDF):** [Download Certificate](./certificate/Coursera U9ACDK23GCLM.pdf)  
 
 Completed: **February – August 2022**  
 Time Commitment: ~6 months at 10 hours/week  
